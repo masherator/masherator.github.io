@@ -29,7 +29,7 @@
       <guid>https://masherator.github.io/products/</guid>
       <description>
 
-&lt;h2 id=&#34;this-is-the-products-page&#34;&gt;This is the Products Page&lt;/h2&gt;
+&lt;h1 id=&#34;this-is-the-products-page&#34;&gt;This is the Products Page&lt;/h1&gt;
 
 &lt;p&gt;There are SO many products to show here.&lt;/p&gt;
 </description>
@@ -79,6 +79,20 @@
       <description>
 
 &lt;h2 id=&#34;you-must-first-ask-yourself-do-you-know-how-not-to-cook&#34;&gt;You must first ask yourself, do you know how NOT to cook?&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testimonials: Hear From Our Customers</title>
+      <link>https://masherator.github.io/testimonials/</link>
+      <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
+      
+      <guid>https://masherator.github.io/testimonials/</guid>
+      <description>
+
+&lt;h1 id=&#34;here-s-what-our-customers-are-saying&#34;&gt;Here&amp;rsquo;s What Our Customers Are Saying&amp;hellip;&lt;/h1&gt;
+
+&lt;p&gt;They have many word to share with you.&lt;/p&gt;
 </description>
     </item>
     
