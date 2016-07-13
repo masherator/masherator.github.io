@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recipes on OMI Oriental Grocery</title>
-    <link>https://masherator.github.io/recipes/</link>
-    <description>Recent content in Recipes on OMI Oriental Grocery</description>
+    <title>Soup on OMI Oriental Grocery</title>
+    <link>https://masherator.github.io/tags/soup/</link>
+    <description>Recent content in Soup on OMI Oriental Grocery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Jul 2016 04:04:54 -0400</lastBuildDate>
-    <atom:link href="https://masherator.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://masherator.github.io/tags/soup/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mondu Soup Recipe</title>
