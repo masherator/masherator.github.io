@@ -6,13 +6,85 @@
     <description>Recent content in Recipes on OMI Oriental Grocery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Jul 2016 04:04:54 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://masherator.github.io/recipes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mondu Soup Recipe</title>
+      <title>Kimbop</title>
+      <link>https://masherator.github.io/recipes/kimbop/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://masherator.github.io/recipes/kimbop/</guid>
+      <description>
+
+&lt;h1 id=&#34;kimbop-kimbap&#34;&gt;Kimbop / Kimbap&lt;/h1&gt;
+
+&lt;p&gt;This is the recipe.&lt;/p&gt;
+
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Do something.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do something else.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do one last thing.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Korean Radish Soup</title>
+      <link>https://masherator.github.io/recipes/korean-radish-soup/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://masherator.github.io/recipes/korean-radish-soup/</guid>
+      <description>
+
+&lt;h1 id=&#34;korean-radish-soup&#34;&gt;Korean Radish Soup&lt;/h1&gt;
+
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;6 cups of water&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2 Tbl. Beef Dashida(a beef-flavored soup base)&lt;/li&gt;
+&lt;li&gt;1 medium Lobak or Daikon radish&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;3 cloves minced garlic&lt;/li&gt;
+&lt;li&gt;Vegetable oil&lt;/li&gt;
+&lt;li&gt;1 tsp. black pepper&lt;/li&gt;
+&lt;li&gt;2-3 scallions, sliced thin,cut about 2&amp;rdquo; long&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;pinch of salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Peel one medium radish. Slice into thin strips (&amp;lsquo;julienned&amp;rsquo;, approximately &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;&amp;rdquo; thick) into a large soup pot. (Use of a vegetable cutter is recommended.)&lt;/li&gt;
+&lt;li&gt;Sauté lightly with about 2 tbls. vegetable oil, adding the beef dashida and a pinch of salt.&lt;/li&gt;
+&lt;li&gt;Add the water, garlic, black pepper and scallions and bring to a boil, then simmer for about 10-15 minutes until the radish slices are translucent.&lt;/li&gt;
+&lt;li&gt;Serve with rice on the side to be added to the soup.&lt;/li&gt;
+&lt;li&gt;Add Yang-Yum-Gang-Jang sauce to taste.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;yield&#34;&gt;Yield&lt;/h2&gt;
+
+&lt;p&gt;Makes approx. 3-4 large servings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mondu Soup</title>
       <link>https://masherator.github.io/recipes/mondu-soup/</link>
-      <pubDate>Tue, 12 Jul 2016 04:04:54 -0400</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://masherator.github.io/recipes/mondu-soup/</guid>
       <description>
@@ -54,7 +126,7 @@
     </item>
     
     <item>
-      <title>Soybean Sprout Soup Recipe</title>
+      <title>Soybean Sprout Soup</title>
       <link>https://masherator.github.io/recipes/soybean-sprout-soup/</link>
       <pubDate>Tue, 12 Jul 2016 04:04:54 -0400</pubDate>
       
@@ -94,16 +166,14 @@
     </item>
     
     <item>
-      <title>Kimbop - Asian Dumpling Stew</title>
-      <link>https://masherator.github.io/recipes/kimbop/</link>
+      <title>Cucumber Kimchi</title>
+      <link>https://masherator.github.io/recipes/cucumber-kimchi/</link>
       <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
       
-      <guid>https://masherator.github.io/recipes/kimbop/</guid>
+      <guid>https://masherator.github.io/recipes/cucumber-kimchi/</guid>
       <description>
 
-&lt;h1 id=&#34;kimbop-is-a-big-issue&#34;&gt;Kimbop is a big issue&lt;/h1&gt;
-
-&lt;p&gt;Bah Bah du-wap (Diddy dom dom duh-ah)&lt;/p&gt;
+&lt;h1 id=&#34;cucumber-kimchi&#34;&gt;Cucumber Kimchi&lt;/h1&gt;
 
 &lt;p&gt;This is the recipe.&lt;/p&gt;
 
@@ -129,41 +199,68 @@
     </item>
     
     <item>
-      <title>Korean Radish Soup</title>
-      <link>https://masherator.github.io/recipes/korean-radish-soup/</link>
+      <title>Seasoned Cuttlefish</title>
+      <link>https://masherator.github.io/recipes/seasoned-cuttlefish/</link>
       <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
       
-      <guid>https://masherator.github.io/recipes/korean-radish-soup/</guid>
+      <guid>https://masherator.github.io/recipes/seasoned-cuttlefish/</guid>
       <description>
 
-&lt;h1 id=&#34;korean-radish-soup&#34;&gt;Korean Radish Soup&lt;/h1&gt;
+&lt;h1 id=&#34;seasoned-cuttlefish&#34;&gt;Seasoned Cuttlefish&lt;/h1&gt;
+
+&lt;p&gt;This is the recipe.&lt;/p&gt;
 
 &lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;6 cups of water&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;2 Tbl. Beef Dashida(a beef-flavored soup base)&lt;/li&gt;
-&lt;li&gt;1 medium Lobak or Daikon radish&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;3 cloves minced garlic&lt;/li&gt;
-&lt;li&gt;Vegetable oil&lt;/li&gt;
-&lt;li&gt;1 tsp. black pepper&lt;/li&gt;
-&lt;li&gt;2-3 scallions, sliced thin,cut about 2&amp;rdquo; long&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;pinch of salt&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Peel one medium radish. Slice into thin strips (&amp;lsquo;julienned&amp;rsquo;, approximately &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;&amp;rdquo; thick) into a large soup pot. (Use of a vegetable cutter is recommended.)&lt;/li&gt;
-&lt;li&gt;Sauté lightly with about 2 tbls. vegetable oil, adding the beef dashida and a pinch of salt.&lt;/li&gt;
-&lt;li&gt;Add the water, garlic, black pepper and scallions and bring to a boil, then simmer for about 10-15 minutes until the radish slices are translucent.&lt;/li&gt;
-&lt;li&gt;Serve with rice on the side to be added to the soup.&lt;/li&gt;
-&lt;li&gt;Add Yang-Yum-Gang-Jang sauce to taste.&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Do something.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do something else.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do one last thing.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seasoned Perilla Leaves</title>
+      <link>https://masherator.github.io/recipes/seasoned-perilla-leaves/</link>
+      <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
+      
+      <guid>https://masherator.github.io/recipes/seasoned-perilla-leaves/</guid>
+      <description>
 
-&lt;h2 id=&#34;yield&#34;&gt;Yield&lt;/h2&gt;
+&lt;h1 id=&#34;seasoned-perilla-leaves&#34;&gt;Seasoned Perilla Leaves&lt;/h1&gt;
 
-&lt;p&gt;Makes approx. 3-4 large servings.&lt;/p&gt;
+&lt;p&gt;This is the recipe.&lt;/p&gt;
+
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Do something.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do something else.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do one last thing.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     

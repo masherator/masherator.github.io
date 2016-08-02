@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roll on OMI Oriental Grocery</title>
+    <link>https://masherator.github.io/tags/roll/</link>
+    <description>Recent content in Roll on OMI Oriental Grocery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://masherator.github.io/tags/roll/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kimbop</title>
+      <link>https://masherator.github.io/recipes/kimbop/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://masherator.github.io/recipes/kimbop/</guid>
+      <description>
+
+&lt;h1 id=&#34;kimbop-kimbap&#34;&gt;Kimbop / Kimbap&lt;/h1&gt;
+
+&lt;p&gt;This is the recipe.&lt;/p&gt;
+
+&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;li&gt;Ingredient&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Do something.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do something else.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Do one last thing.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on OMI Oriental Grocery</title>
+    <link>https://masherator.github.io/tags/featured/</link>
+    <description>Recent content in Featured on OMI Oriental Grocery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jul 2016 00:53:01 -0400</lastBuildDate>
+    <atom:link href="https://masherator.github.io/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Frozen Sweets</title>
+      <link>https://masherator.github.io/products/frozen-sweets/</link>
+      <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
+      
+      <guid>https://masherator.github.io/products/frozen-sweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramen</title>
+      <link>https://masherator.github.io/products/ramen/</link>
+      <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
+      
+      <guid>https://masherator.github.io/products/ramen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soy Sauce</title>
+      <link>https://masherator.github.io/products/soy-sauce/</link>
+      <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
+      
+      <guid>https://masherator.github.io/products/soy-sauce/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

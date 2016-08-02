@@ -20,63 +20,7 @@
     </item>
     
     <item>
-      <title>Choose from Over 300 Specialty Oriental Products</title>
-      <link>https://masherator.github.io/products/</link>
-      <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
-      
-      <guid>https://masherator.github.io/products/</guid>
-      <description>
-
-&lt;h1 id=&#34;this-is-the-products-page&#34;&gt;This is the Products Page&lt;/h1&gt;
-
-&lt;p&gt;There are SO many products to show here.&lt;/p&gt;
-
-&lt;p&gt;KIMCHI
-DELICIOUS, SPICY &amp;amp; HEALTHY&lt;/p&gt;
-
-&lt;p&gt;LONG, MEDIUM &amp;amp; SHORT GRAIN RICES&lt;/p&gt;
-
-&lt;p&gt;SUSHI MAKING INGREDIENTS&lt;/p&gt;
-
-&lt;p&gt;ASIAN VEGETABLES&lt;/p&gt;
-
-&lt;p&gt;KOREAN SWEET POTATOES&lt;/p&gt;
-
-&lt;p&gt;MISO, TOFU &amp;amp; OTHER SOYBEAN PRODUCTS&lt;/p&gt;
-
-&lt;p&gt;SEAWEEDS FOR SUSHI, SALADS, SOUPS
-OR READY TO EAT&lt;/p&gt;
-
-&lt;p&gt;IMPORTED COOKIES, CANDIES &amp;amp; ICE CREAM TREATS&lt;/p&gt;
-
-&lt;p&gt;IMPORTED TEAS
-As well as weight-loss, herbal &amp;amp; medicinal teas&lt;/p&gt;
-
-&lt;p&gt;RICE CAKES&lt;/p&gt;
-
-&lt;p&gt;IMPORTED RAMENS
-From the hot &amp;amp; spicy to the mild flavors&lt;/p&gt;
-
-&lt;p&gt;DUMPLINGS - (GYOZA/ Potstickers)
-A variety of flavors and types for steaming, frying or soups&lt;/p&gt;
-
-&lt;p&gt;NOODLES
-Rice, wheat, somen, soba, shiritake, japchae noodles&lt;/p&gt;
-
-&lt;p&gt;SPECIAL CUTS OF PORK &amp;amp; BEEF&lt;/p&gt;
-
-&lt;p&gt;FROZEN SEAFOOD
-Fish, Squid, eel, Roe, Shellfish
-Oden, Fish Tempura, Crabcake&lt;/p&gt;
-
-&lt;p&gt;COOKING WARE &amp;amp; DISH WARE&lt;/p&gt;
-
-&lt;p&gt;UNIQUE GIFT ITEMS&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learn How to Make Kimbop - Asian Dumpling Stew</title>
+      <title>Learn How to Make Cuttlefish, Kimchi &#43; Kimbop</title>
       <link>https://masherator.github.io/classes/learn-kimbop/</link>
       <pubDate>Tue, 12 Jul 2016 00:53:01 -0400</pubDate>
       
@@ -174,10 +118,14 @@ providing a delicious meal.&lt;/p&gt;
 to try making something new, but you don’t know the language on the package or are unfamiliar with the product or how
 to prepare it. Just ask us. We are here to help you find what you need.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&#34;https://masherator.github.io/reviews/&#34;&gt;Here&amp;rsquo;s what some of our customers had to say&amp;hellip;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
 
 &lt;div class=&#34;well&#34;&gt;
+  
 &lt;form action=&#34;https://formspree.io/omiorientalgrocery@gmail.com&#34;&gt;
+
   &lt;div class=&#34;form-group&#34;&gt;
     &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;
     &lt;input type=&#34;name&#34; class=&#34;form-control&#34; id=&#34;name&#34; placeholder=&#34;Enter Your Name&#34;&gt;
@@ -199,7 +147,11 @@ to prepare it. Just ask us. We are here to help you find what you need.&lt;/p&gt
 &lt;/form&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;strong&gt;Do You Prefer To Talk On the Phone?&lt;/strong&gt; You can call us during business hours at (860) 253-9028. If you have questions after hours, the &lt;em&gt;Contact Form&lt;/em&gt; above is best.&lt;/p&gt;
+&lt;div&gt;
+  &lt;p&gt;&lt;b&gt;Do You Prefer to Talk on the Phone?&lt;/b&gt; You can call us during business hours at (860) 253-9028. If you have questions after hours, the Contact Form above is best.&lt;/p&gt;
+&lt;/div&gt;
+
+
 
 &lt;h2 id=&#34;maps-directions&#34;&gt;Maps &amp;amp; Directions&lt;/h2&gt;
 
